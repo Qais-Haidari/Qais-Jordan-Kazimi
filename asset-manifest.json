@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c89c55f.css",
+    "main.js": "/static/js/main.71ada207.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg": "/static/media/nubelson-fernandes--Xqckh_XVU4-unsplash.09724431b64168db1c49.jpg",
+    "static/media/bg-image.jpg": "/static/media/bg-image.950b86ef9b86627053cf.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0c89c55f.css.map": "/static/css/main.0c89c55f.css.map",
+    "main.71ada207.js.map": "/static/js/main.71ada207.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c89c55f.css",
+    "static/js/main.71ada207.js"
+  ]
+}
